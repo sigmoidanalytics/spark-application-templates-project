@@ -1,0 +1,15 @@
+*~
+*.iml
+*.ipr
+*.iws
+*.patch
+*.log
+*.orig
+*.rej
+*.class
+*.swp
+*.classpath
+*.project
+*.crc
+.DS_Store
+
